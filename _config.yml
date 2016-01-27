@@ -2,6 +2,7 @@ name: Mamiko
 favicon: null
 layout_spectrum: 0.14704714948311448
 typography_spectrum: 0.9545647411141545
+title: feel.write.read
 cta:
   domain: null
   bucket: null

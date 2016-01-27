@@ -23,7 +23,7 @@ color:
     - '#dbabad'
     - '#6f807a'
   brandStrength: 0.6875
-  lightness: 0.75
-  saturation: 0.5
-  rhythmicContrast: 0.5788556914776564
+  lightness: 0.375
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []

@@ -1,6 +1,6 @@
 name: Mamiko
 favicon: null
-layout_spectrum: 0.49919
+layout_spectrum: 0.66042
 typography_spectrum: 0.47313
 title: feel.write.read
 cta:
@@ -22,7 +22,7 @@ color:
     - '#705865'
     - '#dbabad'
     - '#6f807a'
-  brandStrength: 0.703564785188064
+  brandStrength: 0.6875
   lightness: 0.27635074919089675
   saturation: 0.6961474905256182
   rhythmicContrast: 0.5788556914776564

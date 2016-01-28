@@ -1,5 +1,8 @@
+name: Mamiko
+favicon: null
+layout_spectrum: 0.1863799
+typography_spectrum: 0.47313
 title: feel.write.read
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.6236559
-  brandStrength: 0.811828
-  lightness: 0.4946237
-  brandColors:
-    - '#020001'
-    - '#647788'
-    - '#FBFBF2'
-    - '#FA6691'
-    - '#D7D75C'
-  rhythmicContrast: 0.5143369
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: Mamiko
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.47313
-layout_spectrum: 0.1863799
+color:
+  brandColors:
+    - '#87bed3'
+    - '#4b515d'
+    - '#f9f5ef'
+    - '#a84562'
+    - '#c67480'
+  brandStrength: 0.6875
+  lightness: 0.5625
+  saturation: 0.375
+  rhythmicContrast: 0.5
+purpose: []

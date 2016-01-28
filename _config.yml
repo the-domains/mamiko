@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.4480287
+  saturation: 0.5734767
   brandStrength: 1
-  lightness: 0.6236559
+  lightness: 0.2491039
   brandColors:
     - '#9ECBD0'
     - '#F15A23'
     - '#FFFFFF'
     - '#21201E'
     - '#BDA391'
-  rhythmicContrast: 0.3315412
+  rhythmicContrast: 0.6559139
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Mamiko
 favicon: null
+name: Mamiko
 opengraph:
   image: null
   type: null

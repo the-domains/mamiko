@@ -14,7 +14,7 @@ collections:
       path: '/:title/'
 color:
   saturation: 0.6236559
-  brandStrength: 0.8476703
+  brandStrength: 0.718638
   lightness: 0.4946237
   brandColors:
     - '#FBDFBD'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Mamiko
 favicon: null
+name: Mamiko
 opengraph:
   image: null
   type: null

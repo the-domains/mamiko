@@ -6,22 +6,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.4516129
-  brandStrength: 1
+  brandStrength: 0.327957
   lightness: 0.2491039
   brandColors:
-    - '#9ECBD0'
-    - '#F15A23'
-    - '#FFFFFF'
-    - '#21201E'
-    - '#BDA391'
+    - '#FAFFF9'
+    - '#300E0C'
+    - '#80B4FF'
+    - '#6E4B42'
+    - '#B4395C'
   rhythmicContrast: 0.1774193
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Mamiko
+favicon: null
 opengraph:
   image: null
   type: null
